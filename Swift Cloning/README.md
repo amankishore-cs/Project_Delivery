@@ -1,8 +1,9 @@
 # Swift Cloning
 This application is created to clone swift data / assets from one to another.
-`_Somfy specific_`
 
-##Authors
+_This is developed for Somfy._
+
+# Authors
 
 Aman Kishore
 
